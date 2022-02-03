@@ -1,5 +1,7 @@
 # Loan-Prediction-Dataset
 
+Website Link: https://loanpredictor23.herokuapp.com/
+
 From the challange hosted at: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 ## Problem Statement:
 
@@ -25,7 +27,3 @@ Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
-I have applied PCA algorithm to reduce the data into two dimensions to visualize the classification of data using some classification techniques.
-"# streamlit-to-heroku-tutorial" 
-"# streamlit-to-heroku-tutorial" 
-"# Streamlit-Heroku-Loan" 
